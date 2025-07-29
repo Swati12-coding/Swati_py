@@ -1,2 +1,3 @@
 # Swati_py
-Working on my first Git repository.
+Working on my first Git Repository.
+Author - Swati Singh
