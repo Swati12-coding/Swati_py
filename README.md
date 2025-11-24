@@ -1,33 +1,25 @@
-Overview
+# Habit Tracker
 
-The Python Habit Tracker is a simple command-line application designed to help users build and maintain positive habits through consistent tracking. It allows users to add new habits, mark them as completed each day, and track streaks over time with data saved in a JSON file for persistence.
+## Project Description
+This is a Python-based command-line application that helps users build and maintain good habits.  
+It allows users to add new habits, mark them as completed each day, and track streaks over time.  
+All habit data is stored in a JSON file for persistence.
 
-Features
-- Add new habits with creation date.
-- Mark habits as completed for the current day.
-- View all habits along with their creation date, last completion date, and current streak.
-- Persistent storage of habit data in habits.json.
-- Simple menu-driven interface for easy use.
+## Features
+- *Add Habits:* Create new habits with automatic creation date.
+- *Daily Completion:* Mark habits as completed for the current day.
+- *Streak Tracking:* Automatically updates streaks based on consecutive completions.
+- *Data Persistence:* Stores all data in a habits.json file.
+- *View All Habits:* Displays habit name, created date, last done, and current streak.
+- *Simple Menu UI:* Beginner-friendly and easy to understand.
 
-Technologies Used
-- Python 3
-- JSON module for data storage
-- Datetime module for date handling
+## Tech Stack
+- *Python 3*
 
-Installation and Running
-1. Ensure Python 3 is installed.
-2. Download or clone the project files.
-3. Run the program using:
-python habit_tracker.py
-
-text
-4. Follow the on-screen menu to manage your habits.
-
-Usage Instructions
-- Select "Add Habit" to create a new habit.
-- Select "Mark Habit Done" to record completion for today.
-- Select "View Habits" to see status and streaks.
-- Select "Exit" to close the application.
-
-
+## How to Run
+1. Make sure Python is installed.
+2. Save the file as main.py.
+3. Run:
+   ```bash
+   python main.py
 
