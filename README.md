@@ -1,5 +1,5 @@
 Overview
-The Python Habit Tracker is a simple command-line application designed to help users build and maintain positive habits through consistent tracking. It allows users to add new habits, mark them as completed each day, and track streaks over time with data saved in a JSON file for persistence.
+-The Python Habit Tracker is a simple command-line application designed to help users build and maintain positive habits through consistent tracking. It allows users to add new habits, mark them as completed each day, and track streaks over time with data saved in a JSON file for persistence.
 
 Features
 - Add new habits with creation date.
